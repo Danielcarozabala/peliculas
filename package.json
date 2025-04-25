@@ -1,0 +1,22 @@
+{
+  "name": "peliculas",
+  "version": "1.0.0",
+  "description": "Descripcion de curso JS para peliculas",
+  "main": "mani.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielcarozabala/peliculas.git"
+  },
+  "keywords": [
+    "Peliculas"
+  ],
+  "author": "Daniel Caro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danielcarozabala/peliculas/issues"
+  },
+  "homepage": "https://github.com/Danielcarozabala/peliculas#readme"
+}
